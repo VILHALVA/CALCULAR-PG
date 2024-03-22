@@ -12,29 +12,7 @@ A "Progressão Geométrica" é uma aplicação que permite calcular os termos de
 2. Limpar Resultado:
    - Ao clicar no botão "LIMPAR", todos os campos de entrada são limpos e o resultado do cálculo é removido da visualização.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CALCULAR-PG.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CALCULAR-PG
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CALCULAR-PG.zip
-```
-
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Informar os Valores:
    - Insira o valor do primeiro termo (a₁) no campo "PRIMEIRO TERMO (a₁)".
    - Insira o valor da razão (q) no campo "RAZÃO (q)".
@@ -51,9 +29,9 @@ unzip CALCULAR-PG.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
